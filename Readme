@@ -1,4 +1,4 @@
-AI powered weightlifting posture corrector
+Our app analyzes your lifting form using a computer vision pose estimation model, calculates key points within a provided video in where the user exhibits poor form, and gives suggestions based on these key points.
 
 Team Github: https://github.com/wang-owen/HowsMyForm
 
